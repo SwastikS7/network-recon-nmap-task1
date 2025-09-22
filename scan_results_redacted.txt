@@ -1,0 +1,47 @@
+# Nmap 7.95 scan initiated Mon Sep 22 19:28:25 2025 as: /usr/lib/nmap/nmap -sS -T4 --open -oN scan_results.txt -oX scan_results.xml <REDACTED_IP>/24
+Nmap scan report for <REDACTED_IP>
+Host is up (0.0054s latency).
+Not shown: 992 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+808/tcp  open  ccproxy-http
+1521/tcp open  oracle
+2869/tcp open  icslap
+3306/tcp open  mysql
+5500/tcp open  hotline
+7070/tcp open  realserver
+MAC Address: 52:54:00:12:35:02 (QEMU virtual NIC)
+
+Nmap scan report for <REDACTED_IP>
+Host is up (0.0052s latency).
+Not shown: 992 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+808/tcp  open  ccproxy-http
+1521/tcp open  oracle
+2869/tcp open  icslap
+3306/tcp open  mysql
+5500/tcp open  hotline
+7070/tcp open  realserver
+MAC Address: 52:54:00:12:35:03 (QEMU virtual NIC)
+
+Nmap scan report for <REDACTED_IP>
+Host is up (0.0054s latency).
+Not shown: 992 filtered tcp ports (no-response)
+Some closed ports may be reported as filtered due to --defeat-rst-ratelimit
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+445/tcp  open  microsoft-ds
+808/tcp  open  ccproxy-http
+1521/tcp open  oracle
+2869/tcp open  icslap
+3306/tcp open  mysql
+5500/tcp open  hotline
+7070/tcp open  realserver
+MAC Address: 52:54:00:12:35:04 (QEMU virtual NIC)
+
+# Nmap done at Mon Sep 22 19:28:37 2025 -- 256 IP addresses (4 hosts up) scanned in 11.03 seconds
