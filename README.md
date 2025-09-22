@@ -21,7 +21,7 @@ Performed TCP SYN scan to identify open ports on the local VM network (<REDACTED
 3. Captured packets using Wireshark and kept the raw pcap privately (not uploaded).
 
 ## Results (summary)
-- Devices discovered: *[describe devices without IPs, e.g., Router, VM host, IoT device]*  
+- Devices discovered: Not Any  
 - Common open ports observed: `135 (MSRPC)`, `445 (microsoft-ds)`, `3306 (MySql)`  
 
 ## Files in this repo
