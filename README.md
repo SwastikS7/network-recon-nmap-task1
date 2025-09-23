@@ -27,6 +27,8 @@ Performed TCP SYN scan to identify open ports on the local VM network (<REDACTED
 ## Files in this repo
 - `scan_results_redacted.txt` — redacted Nmap output
 - `scan_results_redacted.xml` — redacted XML
+- `Wireshark-task1-ss-edited.jpg` — redacted wireshark screenshot
+- `wireshark_summary.txt` - wireshark data summary file
 
 ## Key learnings
 - How TCP SYN scan works and how to interpret SYN/SYN-ACK.
